@@ -154,9 +154,9 @@ The Food Management System is a comprehensive Python application designed to str
 ## Credits
 
 ### Team Members
-- Abubakar
-- Zunaira Akbar
-- Danish Abdullah Khan
+- Abubakar [LinkedIn](https://www.linkedin.com/in/abubakar56/)
+- Zunaira Akbar [LinkedIn](https://www.linkedin.com/in/zunairaakbr/)
+- Danish Abdullah Khan [LinkedIn](https://www.linkedin.com/in/danish-abdullah-khan-a2ba5324a/)
 
 ### Third-Party Libraries
 - **Tkinter**: GUI library for Python.
